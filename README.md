@@ -1,2 +1,3 @@
-# pwa-tarragona
+PWA TARRAGONA ALEJANDRO GABRIEL
+DWN3AV
 este es el tp 1
